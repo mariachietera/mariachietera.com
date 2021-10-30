@@ -1,0 +1,41 @@
+baseURL = "https://mariachietera.dev/"
+languageCode = "en-us"
+theme = "paper-mod"
+paginate = 10
+# googleAnalytics = "G-"
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Maria Chietera"
+    subtitle = "Mindful Agile Coach"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "mariachietera.com"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "talks"
+    name = "Talks"
+    url = "/talks"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 3
