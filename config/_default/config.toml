@@ -1,4 +1,4 @@
-baseURL = "https://mariachietera.dev/"
+baseURL = "https://mariachietera.com/"
 languageCode = "en-us"
 theme = "paper-mod"
 paginate = 10
