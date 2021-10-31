@@ -9,8 +9,8 @@ Taking a step back to what it means to be a successful Agile Coach: as [Lyssa Ad
 
 ---
 
-As a coach, one of the primary challenges we face is **presence**. 'Maintain presence' is also one of the updated core ICF competencies and it's described as being conscious and present with the client, employing a style that is open, flexible, grounded, and confident. 
-Neuroscientist [Amishi Jha](https://www.youtube.com/watch?v=HKdHB_0K3LQ), describes Mindfulness as nothing else then a *mind training to focus our attention* in a particular way: on purpose, in the present moment, non judgementally, and with a quality of curiosity and kindness. This, as opposite of our autopilot default mode, where our mind seems designed to be most of the times. Practices like Meditation allow us to literally [re-wire our neurological paths and thicken areas of the brain associated with attention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312586/). Gaining presence is a fundamental prerequisite of **active listening**, a necessary step on our intention to establish **trust** and **partner** with the client.
+As a coach, one of the primary challenges we face is **presence**. ['Maintain presence'](https://www.youtube.com/watch?v=j4Jke814PLU) is also one of the updated core ICF competencies and it's described as being conscious and present with the client, employing a style that is open, flexible, grounded, and confident. 
+Neuroscientist [Amishi Jha](https://www.youtube.com/watch?v=HKdHB_0K3LQ), describes Mindfulness as nothing else then a **mind training to focus our attention** in a particular way: on purpose, in the present moment, non judgementally, and with a quality of curiosity and kindness. This, as opposite of our autopilot default mode, where our mind seems designed to be most of the times. Practices like Meditation allow us to literally [re-wire our neurological paths and thicken areas of the brain associated with attention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6312586/). Gaining presence is a fundamental prerequisite of **active listening**, a necessary step on our intention to establish **trust** and **partner** with the client.
 
 ---
 
