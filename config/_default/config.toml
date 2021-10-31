@@ -2,7 +2,7 @@ baseURL = "https://mariachietera.com/"
 languageCode = "en-us"
 theme = "paper-mod"
 paginate = 10
-# googleAnalytics = "G-"
+# googleAnalytics = "G-P26DYFC5NG"
 enableRobotsTXT = true
 
 [languages]
