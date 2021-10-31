@@ -39,4 +39,4 @@ Although associating Mindfulness and Agile Coaching isn't still exactly mainstre
 You can start practicing Mindfulness in as little as 10 minutes a day. \
 Consistency is the only requirement.
 
-If you like my posts, follow me on Twitter: [@mchietera](https://twitter.com/mchietera) {{< figure src="/images/twitter-logo.jpeg" title="Man Brain" width="25" height="25" >}}
+If you like my posts, follow me on Twitter: [@mchietera](https://twitter.com/mchietera)
