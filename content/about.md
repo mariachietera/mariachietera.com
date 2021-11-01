@@ -20,10 +20,10 @@ I've also launched Adevinta's mindfulness community with the goal of integrating
 Currently based in Berlin.
 
 ### Education
-* _in progress_ ◦ NeuroMindfulness Coach Certification ◦ Senior
+* _in progress_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _in progress_ ◦ ICF-Associate Certified Coach (ACC) 
 * _in progress_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
-* _2021_ ◦ NeuroMindfulness Coach Certification ◦ Practitioner
+* _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
 * _2021_ ◦ Advanced Certified ScrumMaster
 * _2021_ ◦ Search Inside Yourself Leadership institute ◦ 1 month program
 * _2020_ ◦ ICAgile Certified Professional ◦ Agile Coaching
