@@ -31,7 +31,7 @@ More [researches from the University of San Francisco](https://www.proquest.com/
 
 ---
 
-According to the [Business Group on Health](https://www.businessgrouphealth.org/en/resources/a-comprehensive-approach-to-addressing-workplace-stress), in 2017, 35% of employers will be offering mindfulness classes or training to employees, with an additional 26% considering for the future. 
+According to the [Business Group on Health](https://www.businessgrouphealth.org/en/resources/a-comprehensive-approach-to-addressing-workplace-stress), in 2017, 35% of employers offered mindfulness classes or training to employees, with an additional 26% considering for the future. 
 In a survey conducted by the [Institute of Mindful Leadership](https://instituteformindfulleadership.org/research/), 93% of leaders reported that mindfulness training helped them create space for innovation, and nearly 70% said it helped them to think strategically.
 
 If you'd like to start integrating some practices in your office for you and your colleagues, here there are some ideas:
@@ -45,3 +45,6 @@ You can start practicing Mindfulness in as little as 10 minutes a day. \
 Consistency is the only requirement.
 
 If you like my posts, follow me on Twitter: [@mchietera](https://twitter.com/mchietera)
+
+# Credits
+Special thanks to [Marcello Galhardo](https://twitter.com/marcellogalhard), [Shikha Shukla](https://www.linkedin.com/in/shikha-shukla-58bb60aa/), [Veronica Brejan](https://www.linkedin.com/in/veronica-brejan-emba-209b401/), [Lucia Baldelli](https://twitter.com/luciabaldelli) for comments and proof reading.
