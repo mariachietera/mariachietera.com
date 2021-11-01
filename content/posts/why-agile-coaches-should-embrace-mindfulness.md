@@ -31,6 +31,9 @@ More [researches from the University of San Francisco](https://www.proquest.com/
 
 ---
 
+According to the [Business Group on Health](https://www.businessgrouphealth.org/en/resources/a-comprehensive-approach-to-addressing-workplace-stress), in 2017, 35% of employers will be offering mindfulness classes or training to employees, with an additional 26% considering for the future. 
+In a survey conducted by the [Institute of Mindful Leadership](https://instituteformindfulleadership.org/research/), 93% of leaders reported that mindfulness training helped them create space for innovation, and nearly 70% said it helped them to think strategically.
+
 If you'd like to start integrating some practices in your office for you and your colleagues, here there are some ideas:
 * apps for guided meditation like [Headspace for Work](https://www.headspace.com/work) or [Meditation Oasis](https://www.meditationoasis.com/podcast) 
 * online courses like [Mindfulness Daily @ Work](https://jackkornfield.com/event/mindfulness-daily-work-ongoing-register-time/#), a free 40-days online guided training by Jack Kornwell
