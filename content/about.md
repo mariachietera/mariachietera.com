@@ -19,6 +19,18 @@ I've also launched Adevinta's mindfulness community with the goal of integrating
 
 Currently based in Berlin.
 
+### Education
+* _in progress_ ◦ NeuroMindfulness Coach Certification ◦ Senior
+* _in progress_ ◦ ICF-Associate Certified Coach (ACC) 
+* _in progress_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
+* _2021_ ◦ NeuroMindfulness Coach Certification ◦ Practitioner
+* _2021_ ◦ Advanced Certified ScrumMaster
+* _2021_ ◦ Search Inside Yourself Leadership institute ◦ 1 month program
+* _2020_ ◦ ICAgile Certified Professional ◦ Agile Coaching
+* _2020_ ◦ Certified ScrumMaster® (CSM®)
+* _2020_ ◦ Agile Team Facilitation ACP-ATF
+* _2016_ ◦ Master of Science, Computer Science ◦ grade 110/110
+
 ### Contacts
 
 - Twitter: [@mchietera](https://twitter.com/mchietera)
