@@ -15,14 +15,14 @@ After spending the first years of my career working as Python Developer and Data
 
 I've been contributing to FitAnalytics' Agile Transformation and Snap Inc. acquisition. I am currently working at Ebay Kleinanzeigen where I am helping 3 teams going trough the Adevinta's acquisition and the current hyper growth phase, while preserving collaboration and culture. 
 
-I've also launched Adevinta's mindfulness community with the goal of integrating mindfulness tools in our employees everyday life, fostering well-being and productivity.
+I've also launched eBay Kleinanzeigen's Mindfulness Community with the goal of integrating mindfulness tools in our employees everyday life, fostering well-being and productivity.
 
 Currently based in Berlin.
 
 ### Education
-* _in progress_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _in progress_ ◦ ICF-Associate Certified Coach (ACC) 
-* _in progress_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
+* _2022_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
+* _2022_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
 * _2021_ ◦ Advanced Certified ScrumMaster
 * _2021_ ◦ Search Inside Yourself Leadership institute ◦ 1 month program
