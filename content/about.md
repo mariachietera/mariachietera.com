@@ -23,7 +23,7 @@ Currently based in Berlin.
 * _2022_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
 * _2022_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
-* _2021_ ◦ Advanced Certified ScrumMaster
+* _2021_ ◦ Advanced Certified ScrumMaster (A-CSM®)
 * _2021_ ◦ Search Inside Yourself Leadership institute ◦ 1 month program
 * _2020_ ◦ ICAgile Certified Professional ◦ Agile Coaching
 * _2020_ ◦ Certified ScrumMaster® (CSM®)
