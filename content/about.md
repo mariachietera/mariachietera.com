@@ -19,6 +19,7 @@ Currently based in Berlin.
 
 ### Education
 * _in progress_ ◦ ICF-Associate Certified Coach (ACC) 
+* _2022_ ◦ Associate Coach Training Graduate (64 ICF ACSTH)
 * _2022_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
 * _2022_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
