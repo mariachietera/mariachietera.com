@@ -8,12 +8,10 @@ draft: false
 
 Hi! I am Maria, and I am [multipotentialite](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling?language=en).
 
-I am NeuroMindfulness and Agile Coach, and I have a data-science background. \
+I am NeuroMindfulness and Agile Coach, and I have a technical background in Data Science and Artificial Intelligence. \
 I practice yoga and meditation, I dance salsa, I run, I walk, I cook.
 
-After spending the first years of my career working as Python Developer and Data Scientist in dynamic Agile environments, I transitioned to coaching in early 2020. 
-
-I've been contributing to FitAnalytics' Agile Transformation and Snap Inc. acquisition. I am currently working at Ebay Kleinanzeigen where I am helping 3 teams going trough the Adevinta's acquisition and the current hyper growth phase, while preserving collaboration and culture. 
+I've been contributing to FitAnalytics' Agile Transformation and Snap Inc. acquisition. I am currently working at Ebay Kleinanzeigen where I am helping 5+ teams going trough the Adevinta's acquisition and the current hyper growth phase, while preserving collaboration and culture. 
 
 I've also launched eBay Kleinanzeigen's Mindfulness Community with the goal of integrating mindfulness tools in our employees everyday life, fostering well-being and productivity.
 
