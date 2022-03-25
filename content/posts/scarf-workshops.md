@@ -1,9 +1,9 @@
 ---
 title: "SCARF based Workshops: how to design human centered interactions"
-draft: true
+draft: false
 ---
 
-SCARF based Workshops: how to design human centered interactions
+SCARF+P based Workshops: how to design human centered interactions
 ---
 
 In 'Your Brain at Work', David Rock describes five domain of social experience that the brain treats as primary rewards or threats. In other words, these five domains are so important to you that your brain treats them in the same way it treats survival issues.
