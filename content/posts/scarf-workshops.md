@@ -1,5 +1,5 @@
 ---
-title: "PINK-SCARF based Workshops: how to enable participatory brain-based decision making"
+title: "Pink-SCARF based Workshops: how to enable brain-reward-based decision making"
 draft: true
 ---
 
@@ -74,7 +74,7 @@ People to feel comfortable around each other. F.i. find sth you have in common w
 
 ###Fairness: how we percieve the exchange between people to be
 
-becomes 'kindness', beyond a 'just exchange' or recirpority.
+becomes 'kindness', beyond a 'just exchange' or reciprocity.
 remain unbiased. Agree as a group on the standards, not to let leaders to break the rules
 how to to make decision making
 ---
@@ -87,4 +87,4 @@ If you like my posts, follow me on Twitter: [@mchietera](https://twitter.com/mch
 
 # Credits
 
-Special thanks to [Marcello Galhardo](https://twitter.com/marcellogalhardo) for comments and proof reading.
+Special thanks to Anna, Michaela, Arnoud, Harry [Marcello Galhardo](https://twitter.com/marcellogalhardo) for comments and proof reading.
