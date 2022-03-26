@@ -1,33 +1,31 @@
 ---
-title: "Pink-SCARF based Workshops: how to enable brain-reward-based decision making"
+title: "SCARF based Workshops: how to enable reward-based decision making"
 draft: true
 ---
 
-As a facilitator, how can we design and host workshops that make the best out of the attendees?  
-In this article I link a very famous brain-based behavioural model with some good facilitation practices, in the attempt of helping us exploring how we can create a motivating, safe and rewarding workshop experience for our participants.
+How can we design and host workshops that make the best out of the attendees?  
+In this article I link a scientific brain-based behavioural model with some good facilitation practices, 
+in the attempt of providing guidance on how we can create a motivating, safe and rewarding workshop experience for our participants.
 
+###What is the SCARF model?
 
-###What is Pink-SCARF?
-
-Pink-SCARF is the merge of 2 scientifically based behavioural models. 
-
-In 'Your Brain at Work', David Rock describes five domain of social experience that the brain treats as primary rewards or threats. 
+In the paper 'SCARF: a brain-based model for collaborating with and influencing others', David Rock describes five domain of human social experience that activate either the ‘primary reward’or ‘primary threat’ circuitry (and associated networks) of the brain. 
 In other words, these five domains are so important to you that your brain treats them in the same way it treats survival issues.
 And because they are so important, each is a major driver for social behaviour. 
-These five domains for a model which David calls the SCARF model, which stands for Status, Certainty, Autonomy, Relatedness and Fairness.
+These five domains for a model which we'll call SCARF model, an acronym standing for Status, Certainty, Autonomy, Relatedness and Fairness.
 
-P of purpose from Pink as part of the definition of motivation: Autonomy, Mastery, Purpose.
+This can feel kind of nerdy, why should we care? 
+This model can help us understanding the social brain well enough to skillfully navigate it.
+Keeping this in mind we can design workshops that minimise threats response (avoid pain) and maximize reward response (seek pleasure) and influence the experience our our paticipants for good.
 
-These five domains of the ‘human social experience’ activate either the primary reward or the primary threat circuitry of the brain.
-A brain-based model on how to lead and motivate people
-
-Neuroscience model to minimise threats response (avoid pain) and maximize reward response (dopamine, seek pleasure).
-David Rock, research to figure our why humans behave in a certain way.
+Let's go through the letters of the model one by one.
 
 ---
 
 ###Purpose
 
+People may become disengaged and demotivated at work if they don't understand, or can't invest in, the "bigger picture."
+for example connecting their personal goals to organizational targets using OKRs
 - Make a compelling goal from the session 
 - only required people should be in the room
 - bigger picture
@@ -56,6 +54,8 @@ Why-what they need-how many-quality-resources-how much time do you have. (CPQQRT
 
 ###Autonomy: sense of control over events
 
+The need to direct your own life and work. To be fully motivated, you must be able to control what you do, when you do it, and who you do it with.
+autonomy, build trust, and improve innovation and creativity
 Leader vs Micromanager/Overexplaining Facilitators. 
 - co-creation workshop
 - workshop agreement before starting
