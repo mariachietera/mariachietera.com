@@ -71,6 +71,8 @@ Here are a few ideas for incorporating this knowledge into your workshop:
 
 - Involve leaders or relevant stakeholders in the design of the workshop or invite them to provide feedback, and make sure the agenda or the activities don't feel imposed on them
 - Create an opportunity to co-create a workshop agreement at the beginning of the session: when do you prefer to have your breaks? How do you want me to help you in case of friction? How are we going to take decisions? How do you want me to behave in case someone violates our session agreement? 
+- Include some buffer with no activity planned for your participant to ask for questions or go deeper in any topic they want to spend more time on
+- Be ready to toss what you prepared if in that moment it doesn't serve your participants
 
 ---
 
@@ -91,12 +93,16 @@ Here are a few ideas for incorporating this knowledge into your workshop:
 
 ###Expectations
 
-Make clear which kind of participation/preparation is required
-Clarify results expected
-Humans struggle with change. 
-- Share the start and end on time, agenda, topic and topic in advance for lowering trigger responses.
+Creating expectations helped our ancestors be hopeful and persevere from season to season and year to year. Expectations create motivation and inspiration. When expectations are not met, we experience disappointment which can be surprisingly painful and discouraging.
+Setting clear, motivating, and realistic expectations will help build trust when working with others.
+
+Here are a few ideas for incorporating this knowledge into your workshop:
+
+- Make clear in advance which kind of participation/preparation is required: send an email with all the requirements well ahead of time
+- Make sure the participant are aware and aligned on the outcome expected out of the workshop
+- Make sure to explain the workshop agenda in detail, when each topic will be touched on, and how. 
 - Explain activities or tasks in advance as details as possible. 
-Why-what they need-how many-quality-resources-how much time do you have. 
+- Help leaders to define realistic goals: it might be helpful to manage expectations by determining a minimum outcome to hit and consider everything else as a bonus to avoid disappointment among the participants
 
 ---
 
