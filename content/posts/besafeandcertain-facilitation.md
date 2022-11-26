@@ -53,7 +53,6 @@ Today, in our business environment, we all feel better when roles are establishe
 Here are a few ideas for incorporating this knowledge into your workshop:
 
 - At the beginning of the workshop, ask the attendees to introduce themself and name which expertise they are bringing into the room
-- As the workshop host, you should help balance speaking time and make sure everybody feels free to contribute to the conversation. 'What are some important voices we haven't heard from yet?' 
 - Make sure you show gratitude and validate each intervention
 
 ---
@@ -71,15 +70,21 @@ Micro-management and too many rules or restrictions create a threat response, re
 Here are a few ideas for incorporating this knowledge into your workshop:
 
 - Involve leaders or relevant stakeholders in the design of the workshop or invite them to provide feedback, and make sure the agenda or the activities don't feel imposed on them
-- Create an opportunity to co-create a workshop agreement at the beginning of the session: when do you prefer to have your breaks? How do you want me to help you in case of friction? How are we going to take decisions?
+- Create an opportunity to co-create a workshop agreement at the beginning of the session: when do you prefer to have your breaks? How do you want me to help you in case of friction? How are we going to take decisions? How do you want me to behave in case someone violates our session agreement? 
 
 ---
 
-###Fairness: how we percieve the exchange between people to be
+###Fairness
 
-becomes 'kindness', beyond a 'just exchange' or reciprocity.
-remain unbiased. Agree as a group on the standards, not to let leaders to break the rules
-how to to make decision making
+Experiencing unfairness (to self or others) creates a deep-seated emotional reaction and the desire for revenge.
+It is a strong emotion, and we can spend a lot of energy overcoming it when it happens.
+Fairness is an essential driver in today’s workplaces. People appreciate being treated fairly and are more likely to be generous in their contributions when a culture is fair.
+
+Here are a few ideas for incorporating this knowledge into your workshop:
+
+- It's crucial for you as a facilitator to remain an unbiased moderator
+- As the workshop host, you should help balance speaking time and make sure everybody feels free to contribute to the conversation. 'What are some important voices we haven't heard from yet?' 
+- create opportunities for people to open up and share their perception of fairness and empathize with each other
 
 ---
 
