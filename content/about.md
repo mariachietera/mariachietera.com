@@ -4,22 +4,21 @@ draft: false
 ---
 
 
-### Nice to meet you!
+### Italy to Spain to Germany to UK
 
-Hi! I am Maria, and I am [multipotentialite](https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling?language=en).
+I started my professional life studying Computer Science at the University of Trento in Italy and completed my Master's Degree in Machine Learning at the University of Catalunya, Barcelona.
 
-I am NeuroMindfulness and Agile Coach, and I have a technical background in Data Science and Artificial Intelligence. \
-I practice yoga and meditation, I dance salsa, I run, I walk, I cook.
+In 2016 I moved to Berlin, Germany, where I started working as Machine Learning Researcher, Software Engineer and Data Scientist.
+It soon became clear to me that access to self-awareness, trust, and effective communication profoundly influenced the value and quality of the work shipped in organizations as well as the overall happiness of the people around me.
+Since then, I have been on a journey to bring the power of coaching and mindfulness to organizations and individuals.
 
-I've been contributing to FitAnalytics' Agile Transformation and Snap Inc. acquisition. I am currently working at Ebay Kleinanzeigen where I am helping 5+ teams going trough the Adevinta's acquisition and the current hyper growth phase, while preserving collaboration and culture. 
+In 2022 my husband and I moved to London, where I started my 200h Yoga Education.
 
-I've also launched eBay Kleinanzeigen's Mindfulness Community with the goal of integrating mindfulness tools in our employees everyday life, fostering well-being and productivity.
-
-Currently based in London.
+I am currently based in London.
 
 ### Education
 * _in progress_ ◦ ICF-Professional Certified Coach (PCC) 
-* _2022_ ◦ ◦ ICF-Associate Certified Coach (ACC) 
+* _2022_ ◦ ICF-Associate Certified Coach (ACC) 
 * _2022_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
 * _2022_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
