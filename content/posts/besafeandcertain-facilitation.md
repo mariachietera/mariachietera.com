@@ -1,6 +1,6 @@
 ---
 title: "Design a workshop with the brain in mind"
-draft: false
+draft: true
 ---
 
 As having effective meetings becomes highly relevant in the remote-working world where we work, the Be SAFE & Certain model can be a guide to help us design a motivating, safe and rewarding workshop experience for our participants.
