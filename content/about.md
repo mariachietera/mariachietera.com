@@ -15,11 +15,11 @@ I've been contributing to FitAnalytics' Agile Transformation and Snap Inc. acqui
 
 I've also launched eBay Kleinanzeigen's Mindfulness Community with the goal of integrating mindfulness tools in our employees everyday life, fostering well-being and productivity.
 
-Currently based in Berlin.
+Currently based in London.
 
 ### Education
-* _in progress_ ◦ ICF-Associate Certified Coach (ACC) 
-* _2022_ ◦ Associate Coach Training Graduate (64 ICF ACSTH)
+* _in progress_ ◦ ICF-Professional Certified Coach (PCC) 
+* _2022_ ◦ ◦ ICF-Associate Certified Coach (ACC) 
 * _2022_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
 * _2022_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
 * _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
