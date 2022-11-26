@@ -58,13 +58,20 @@ Here are a few ideas for incorporating this knowledge into your workshop:
 
 ---
 
-###Autonomy: sense of control over events
+###Autonomy
 
-The need to direct your own life and work. To be fully motivated, you must be able to control what you do, when you do it, and who you do it with.
-autonomy, build trust, and improve innovation and creativity
-Leader vs Micromanager/Overexplaining Facilitators. 
-- co-creation workshop
-- workshop agreement before starting: how are we going ot take decisions?
+Finding new ways of doing things allowed tribes to survive, especially in
+challenging environments.
+In today's world, we each want some sense of autonomy to be able to do things our way.
+People want to share their ideas, solve problems, and contribute to their tribe.
+Allowing people autonomy produces a reward response for them. It increases motivation and morale.
+For some, a strong need for autonomy will prohibit teamwork and collaboration.
+Micro-management and too many rules or restrictions create a threat response, resulting in lower morale and less engagement.
+
+Here are a few ideas for incorporating this knowledge into your workshop:
+
+- Involve leaders or relevant stakeholders in the design of the workshop or invite them to provide feedback, and make sure the agenda or the activities don't feel imposed on them
+- Create an opportunity to co-create a workshop agreement at the beginning of the session: when do you prefer to have your breaks? How do you want me to help you in case of friction? How are we going to take decisions?
 
 ---
 
