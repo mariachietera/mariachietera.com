@@ -1,6 +1,6 @@
 ---
 title: "SCARF based Workshops: how to enable reward-based decision making"
-draft: true
+draft: false
 ---
 
 As having effective meetings becomes highly relevant in the remote-working world where we work, the Be SAFE & Certain model can be a guide to help us design a motivating, safe and rewarding workshop experience for our participants.
@@ -108,17 +108,15 @@ Here are a few ideas for incorporating this knowledge into your workshop:
 
 ###Certainty: ability to predict the future
 
-People may become disengaged and demotivated at work if they don't understand, or can't invest in, the "bigger picture."
-for example connecting their personal goals to organizational targets using OKRs
-- Make a compelling goal from the session 
-- bigger picture
+A sense of certainty helps people relax and trust, and they can more easily focus on tasks if their basic needs are met. Some people will feel threatened by uncertainty and do anything to establish a sense of certainty, for example resisting the new ideas or people they're exposed to.  
 
-also invites and welcomes 'Uncertainty' as adventure, discovery, learning and growth (we grow under volatility we build antifragile strength)
-+ curve of change: find certanty and normalize uncertainty
-
-In big wokshops-ppl don't know each other in advance: limit uncertainty using formats that everyonce already know/keep activity simple
-
-
+Here are a few ideas for incorporating this knowledge into your workshop:
+ 
+- make sure the participants are clear on how the workshop fits the big picture and how it will impact them
+- create opportunities for the participants to ask for clarifications to what is not clear and help them to define a strategy for tackling open questions after the session ends 
+- talk about the hardship of change: you can use the Tuckman curve as a tool to show how our brain is expected to tackle uncertainty and instability and normalize it
+- limit novelty: reduce the number of new tools, formats or activities you propose in a workshop, especially if the audience isn't used to working together
+- Even with several unknowns, help them become aware of what is certain: What are we certain about? What can we do to raise our level our certainty?
 
 ---
 
