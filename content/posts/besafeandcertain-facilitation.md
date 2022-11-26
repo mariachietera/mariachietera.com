@@ -44,13 +44,17 @@ Here are a few ideas for incorporating this knowledge into your workshop:
 
 ###Status
 
-not job title or position
-very important is in the working environment. 
-- Explicitate status of each attendees, how they can contribute. Validate their status.
-- Facilitators should make everybody feel their voice matter, validation. Thanks for your comment.
-- Create occasion for gratitude#
-- Honor all previous experience and contributions.
+Knowing one's place in the tribe created stability and strengthened the tribe.
+When people feel relevant, unique and needed, they are more likely to be
+positive, contribute and recognise others' contributions.
+When individuals have an unfilled need for status, they may become self-focused, critical of others or "ego-driven."
+Today, in our business environment, we all feel better when roles are established, when we know how the (formal and informal) structures work, who the boss is and what our relationship with her is.
 
+Here are a few ideas for incorporating this knowledge into your workshop:
+
+- At the beginning of the workshop, ask the attendees to introduce themself and name which expertise they are bringing into the room
+- As the workshop host, you should help balance speaking time and make sure everybody feels free to contribute to the conversation. 'What are some important voices we haven't heard from yet?' 
+- Make sure you show gratitude and validate each intervention
 
 ---
 
