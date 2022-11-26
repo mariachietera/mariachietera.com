@@ -1,5 +1,5 @@
 ---
-title: "SCARF based Workshops: how to enable reward-based decision making"
+title: "Design a workshop with the brain in mind"
 draft: false
 ---
 
