@@ -14,7 +14,6 @@ Since then, I have been on a journey to bring the power of coaching and mindfuln
 
 In 2022 my husband and I moved to London, where I started my 200h Yoga Education.
 
-I am currently based in London.
 
 ### Education
 * _in progress_ ◦ ICF-Professional Certified Coach (PCC) 
