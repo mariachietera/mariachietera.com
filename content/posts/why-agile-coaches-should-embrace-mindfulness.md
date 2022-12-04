@@ -1,6 +1,6 @@
 ---
 title: "Why Agile Coaches Should Embrace Mindfulness"
-draft: false
+draft: true
 ---
 
 I am an Agile and [NeuroMindfulness](https://neuromindfulnessinstitute.com/) Coach, and I love how these two aspects coexist in my way of showing up at work every day. More than profoundly influencing how we live our life, Mindfulness can be a powerful tool for our Agile Coaching mission. 
