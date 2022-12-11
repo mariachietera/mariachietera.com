@@ -4,18 +4,19 @@ disableThemeToggle: true
 profileMode:
   enabled: true
   title: "Maria Chietera"
-  subtitle: "Agile & NeuroMindfulness Coach"
+  subtitle: "Mindfulness & Coaching"
   imageUrl: "https://avatars.githubusercontent.com/u/2708146?v=4"
   imageTitle: "Profile Picture"
   imageWidth: 120
   imageHeight: 120
   buttons:
-    - name: Posts
-      url: "/posts"
+    - name: About
+      url: "/about"
+    - name: Book a discovery call
+      url: "https://calendly.com/mariachietera/30min"
+    
 
 socialIcons:
-  - name: "twitter"
-    url: "https://twitter.com/mchietera"
   - name: "linkedin"
     url: "https://www.linkedin.com/in/mariachietera/"
   - name: "instagram"
