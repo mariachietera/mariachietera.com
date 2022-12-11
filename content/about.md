@@ -4,27 +4,28 @@ draft: false
 ---
 
 
-### Italy to Spain to Germany to UK
+### Hi, I am Maria
 
-I started my professional life studying Computer Science at the University of Trento in Italy and completed my Master's Degree in Machine Learning at the University of Catalunya, Barcelona.
+<!-- I started my professional life studying Computer Science at the University of Trento in Italy and completed my Master's Degree in Machine Learning at the University of Catalunya, Barcelona.
 
 In 2016 I moved to Berlin, Germany, where I started working as Machine Learning Researcher, Software Engineer and Data Scientist.
 It soon became clear to me that access to self-awareness, trust, and effective communication profoundly influenced the value and quality of the work shipped in organizations as well as the overall happiness of the people around me.
 Since then, I have been on a journey to bring the power of coaching and mindfulness to organizations and individuals.
 
 In 2022 my husband and I moved to London, where I started my 200h Yoga Education.
+ -->
 
+My mission is to bring you the power of coaching, mindfulness and neuroscience and partner together to build the life you want to live.
+
+I have a Master of Science in Computer Science, am a Master NeuroMindfulness© Coach Practitioner, and am an ICF ACC certified Professional Coach. 
 
 ### Education
 * _in progress_ ◦ ICF-Professional Certified Coach (PCC) 
+* _in progress_ ◦ Yoga Teacher Training 200h 
 * _2022_ ◦ ICF-Associate Certified Coach (ACC) 
 * _2022_ ◦ Certified Scrum Professional®-ScrumMaster (CSP®-SM)
-* _2022_ ◦ NeuroMindfulness® Coach Certification ◦ Senior
-* _2021_ ◦ NeuroMindfulness® Coach Certification ◦ Practitioner
-* _2021_ ◦ Advanced Certified ScrumMaster (A-CSM®)
-* _2021_ ◦ Search Inside Yourself Leadership institute ◦ 1 month program
+* _2022_ ◦ NeuroMindfulness® Master Coach Practitioner Certification
 * _2020_ ◦ ICAgile Certified Professional ◦ Agile Coaching
-* _2020_ ◦ Certified ScrumMaster® (CSM®)
 * _2020_ ◦ Agile Team Facilitation ACP-ATF
 * _2016_ ◦ Master of Science, Computer Science ◦ grade 110/110
 
