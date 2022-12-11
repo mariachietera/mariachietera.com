@@ -23,6 +23,7 @@ I am here to support you.
 I have a Master of Science in Computer Science, am a Master NeuroMindfulness© Coach Practitioner, and am a professional Associate Certified Coach with the International Coaching Federation (ICF ACC). 
 
 ### Education
+
 * _in progress_ ◦ ICF-Professional Certified Coach (PCC) 
 * _in progress_ ◦ Yoga Teacher Training 200h 
 * _2022_ ◦ ICF-Associate Certified Coach (ACC) 
@@ -31,7 +32,3 @@ I have a Master of Science in Computer Science, am a Master NeuroMindfulness© C
 * _2020_ ◦ ICAgile Certified Professional ◦ Agile Coaching
 * _2020_ ◦ Agile Team Facilitation ACP-ATF
 * _2016_ ◦ Master of Science, Computer Science ◦ grade 110/110
-
-### Contacts
-
-- [LinkedIn](https://www.linkedin.com/in/mariachietera/)
