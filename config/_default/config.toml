@@ -21,12 +21,12 @@ enableRobotsTXT = true
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "posts"
-#    name = "Posts"
-#    url = "/posts/"
-#    weight = 1
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
 
 #  [[menu.main]]
 #    identifier = "about"
