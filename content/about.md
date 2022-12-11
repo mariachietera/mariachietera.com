@@ -15,8 +15,8 @@ Since then, I have been on a journey to bring the power of coaching and mindfuln
 In 2022 my husband and I moved to London, where I started my 200h Yoga Education.
  -->
 
-I am a Coach, a Trainer and a Mindfulness Teacher. I am a woman who walks with women towards conquering the life they want. 
-I firmly believe that, with the right support, we can achieve anything we set our minds to. 
+I am a Coach, a Trainer and a Mindfulness Teacher. I am a woman who walks with women towards conquering the life they want.  
+I firmly believe that, with the right support, we can achieve anything we set our minds to.  
 I am here to support you.
 
 I have a Master of Science in Computer Science, am a Master NeuroMindfulness© Coach Practitioner, and am a professional Associate Professional Coach with the International Coaching Federation (ICF). 
@@ -33,5 +33,4 @@ I have a Master of Science in Computer Science, am a Master NeuroMindfulness© C
 
 ### Contacts
 
-- Twitter: [@mchietera](https://twitter.com/mchietera)
 - [LinkedIn](https://www.linkedin.com/in/mariachietera/)
