@@ -14,6 +14,8 @@ profileMode:
       url: "/about"
     - name: Book a discovery call
       url: "https://calendly.com/mariachietera/30min"
+    - name: Subscribe to my newsletter
+      url: "https://linktr.ee/mariachietera?lt_utm_source=lt_share_link#249377355"
     
 
 socialIcons:
