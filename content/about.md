@@ -15,7 +15,8 @@ Since then, I have been on a journey to bring the power of coaching and mindfuln
 In 2022 my husband and I moved to London, where I started my 200h Yoga Education.
  -->
 
-I am a Coach, a Trainer and a Mindfulness Teacher. I am a woman who walks with women towards conquering the life they want.  
+I am a Coach, a Trainer and a Mindfulness Teacher.  
+I am a woman who walks with women towards conquering the life they want.  
 I firmly believe that, with the right support, we can achieve anything we set our minds to.  
 I am here to support you.
 
