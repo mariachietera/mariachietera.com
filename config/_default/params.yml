@@ -4,18 +4,20 @@ disableThemeToggle: true
 profileMode:
   enabled: true
   title: "Maria Chietera"
-  subtitle: "Mindfulness & Coaching"
+  subtitle: "Training | Coaching | Mindfulness"
   imageUrl: "https://avatars.githubusercontent.com/u/2708146?v=4"
   imageTitle: "Profile Picture"
   imageWidth: 120
   imageHeight: 120
   buttons:
-    - name: About
-      url: "/about"
-    - name: Book a discovery call
-      url: "https://calendly.com/mariachietera/30min"
-    - name: Subscribe to my newsletter
-      url: "https://linktr.ee/mariachietera?lt_utm_source=lt_share_link#249377355"
+    - name: Coming Soon..
+      url: "/"
+  #  - name: About
+  #    url: "/about"
+  #  - name: Book a discovery call
+  #    url: "https://calendly.com/mariachietera/30min"
+  #  - name: Subscribe to my newsletter
+  #    url: "https://linktr.ee/mariachietera?lt_utm_source=lt_share_link#249377355"
     
 
 socialIcons:
