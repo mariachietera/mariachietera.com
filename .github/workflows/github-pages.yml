@@ -5,6 +5,13 @@ on:
     branches:
       - master  # Set a branch to deploy
   workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Build & Deploy'
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Build & Deploy'
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -14,15 +21,16 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
         with:
-          submodules: recursive  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0         # Fetch all history for .GitInfo and .Lastmod
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+#          hugo-version: 'latest'
+          hugo-version: '0.123.8'
           extended: true
 
       - name: Build
@@ -32,8 +40,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: mariachietera/mariachietera.github.io
-          publish_branch: master
+          external_repository: marcellogalhardo/marcellogalhardo.github.io
+          publish_branch: main
           # Without `keep_files` the `CNAME` file in the target repo will get removed
           # and the custom domain configured for GitHub pages will get dropped every
           # time the action runs…
