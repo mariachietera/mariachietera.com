@@ -39,7 +39,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          deploy_key: ${{ secrets.HUGO_DEPLOY_TOKEN }}
+          personal_token: ${{ secrets.HUGO_DEPLOY_TOKEN }}
           external_repository: mariachietera/mariachietera.github.io
           publish_branch: master
           # Without `keep_files` the `CNAME` file in the target repo will get removed
