@@ -12,7 +12,7 @@ Currently, I focus on three core pillars:
 *   **Professional Coaching Education** 
     As a Senior Faculty member at [Coaching Outside the Box](https://www.coachingoutsidethebox.net/), I train and mentor coaches toward their ICF credentials.
 *   **Wellness & Recovery** 
-    I serve as a Recovery Coach, Trainer, and Mindfulness Teacher at [Reframe](https://www.reframeapp.com/).
+    I serve as a Recovery Coach, Trainer, and Mindfulness Teacher at [Reframe](https://reframeapp.coach?referral=MARI-988N&referral_type=influencer).
 *   **Movement & Stillness** 
     I lead yoga and mindfulness sessions within local London studios and corporate offices.
 
